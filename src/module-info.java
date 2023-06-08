@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SPURGE
+ *
+ */
+module Kadarini {
+}
